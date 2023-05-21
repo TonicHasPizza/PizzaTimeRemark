@@ -1,4 +1,4 @@
-# Welcome to Pizza Time Remark!
+# Welcome to Pizza Time Remarked!
 This modpack is made by TonicHasPizza, And Icon Made By TonicHasPizza. (I DO NOT OWN ANY MODS IN THIS MODPACK)
 
 ## About

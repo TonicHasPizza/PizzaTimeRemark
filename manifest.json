@@ -1,8 +1,8 @@
 {
-    "name": "Pizza_Time_Remark",
+    "name": "Pizza_Time_Remarked",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/TonicHasPizza/PizzaTimeRemark",
-    "description": "",
+    "website_url": "https://github.com/TonicHasPizza/PizzaTimeRemarked",
+    "description": "Modpack",
     "dependencies": [
         "bbepis-BepInExPack-5.4.2111",
         "RiskofThunder-HookGenPatcher-1.2.3",
