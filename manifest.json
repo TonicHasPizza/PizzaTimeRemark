@@ -1,7 +1,7 @@
 {
     "name": "Pizza_Time_Remark",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/thunderstore-io",
+    "website_url": "https://github.com/TonicHasPizza/PizzaTimeRemark",
     "description": "",
     "dependencies": [
         "bbepis-BepInExPack-5.4.2111",
